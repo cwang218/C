@@ -1,0 +1,82 @@
+Script started on Thu 18 Sep 2014 06:29:21 PM CDT
+]0;cywm94@rc09xcs213: ~/SDRIVE/CS3800/hw1cywm94@rc09xcs213:~/SDRIVE/CS3800/hw1$ sh hw1.sh
+---------------------------------------------------------------------------
+ Menu 
+ 1. Print the ancestry tree of the shell script currently running.
+ 2. Print online usernames.
+ 3. Print the processes any user is running.
+ 4. Quit
+ 
+1
+ 
+4934
+  |
+4909
+  |
+4908
+  |
+4907
+  |
+3181
+  |
+3180
+  |
+3128
+  |
+1019
+  |
+1
+ 
+ 
+---------------------------------------------------------------------------
+ Menu 
+ 1. Print the ancestry tree of the shell script currently running.
+ 2. Print online usernames.
+ 3. Print the processes any user is running.
+ 4. Quit
+ 
+2
+ 
+cavqm6
+cywm94
+eamp68
+rclwxc
+ 
+ 
+---------------------------------------------------------------------------
+ Menu 
+ 1. Print the ancestry tree of the shell script currently running.
+ 2. Print online usernames.
+ 3. Print the processes any user is running.
+ 4. Quit
+ 
+3
+ 
+ Select a user: 
+     1	cavqm6
+     2	cywm94
+     3	eamp68
+     4	rclwxc
+ 
+3
+ 
+UID        PID  PPID  C STIME TTY          TIME CMD
+eamp68    4775     1  0 17:23 ?        00:00:04 /usr/bin/perl /usr/bin/dfshack /
+eamp68   31717 31665  0 18:24 ?        00:00:00 sshd: eamp68@pts/10 
+eamp68   31718 31717  0 18:24 pts/10   00:00:00 -bash
+eamp68   31737     1  0 18:24 ?        00:00:00 /usr/bin/lsyncd -pidfile /tmp/ea
+ 
+ 
+---------------------------------------------------------------------------
+ Menu 
+ 1. Print the ancestry tree of the shell script currently running.
+ 2. Print online usernames.
+ 3. Print the processes any user is running.
+ 4. Quit
+ 
+4
+ 
+ 
+ 
+]0;cywm94@rc09xcs213: ~/SDRIVE/CS3800/hw1cywm94@rc09xcs213:~/SDRIVE/CS3800/hw1$ exit
+Script done on Thu 18 Sep 2014 06:29:39 PM CDT
