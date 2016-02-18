@@ -1,7 +1,4 @@
 /*
-Jeff Goymerac & Christine Wang
-jgg98         & cywm94
-
 Server.c
 
 compile using: gcc -o server server.c -pthread
