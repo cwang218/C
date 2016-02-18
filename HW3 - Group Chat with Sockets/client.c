@@ -1,6 +1,3 @@
-//CS 3800 - HW 3: Jeff Goymerac and Christine Wang
-
-
 
 /************************************************************************/ 
 /*   PROGRAM NAME: client.c  (works with serverX.c)                     */ 
